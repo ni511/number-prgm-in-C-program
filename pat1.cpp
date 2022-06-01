@@ -8,7 +8,7 @@ int main()
     cin>>n;
     while(i<=n)
     {
-        int j=3;
+        int j=n;
         while(j<=n&&j>0)
         {
             cout<<j;
